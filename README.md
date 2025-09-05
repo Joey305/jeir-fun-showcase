@@ -99,7 +99,7 @@ The production application source code remains private.
 
 ## Contact
 Questions, classroom use, or partnership ideas?  
-**Mindful Diabetes Inc.** · hello@mindfuldiabetes.org
+**Mindful Diabetes Inc.** · jmschulz@mindfuldiabetes.org
 
 ---
 
