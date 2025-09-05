@@ -83,8 +83,6 @@ It’s designed for kids, families, and classrooms — quick to learn, delightfu
 - Gameplay — `assets/screenshot-gameplay.png`
 - Game Over — `assets/screenshot-gameover.png`
 
-> Put your PNGs/GIFs in `/assets/` and keep filenames as above, or update the links here.
-
 ## Tech Notes
 - Designed for **quick play** on desktop/laptop browsers.
 - Local prototype built with **Python + Pygame**; the public version is hosted at the link above.
